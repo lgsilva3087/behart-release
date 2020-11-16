@@ -1,0 +1,304 @@
+﻿{
+	"gallery":"behart",
+	
+	"artworks": [
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"0.0",
+			"y":"1.78",
+			"z":"17.64",
+			"angle":"0.0",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.28",
+			"y":"1.78",
+			"z":"7.0",
+			"angle":"-90.0",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/tiempo.jpg",
+			"x":"5.0",
+			"y":"1.78",
+			"z":"9.98",
+			"angle":"0.0",
+			"width":"0.33",
+			"height":"0.24",
+			"tags": {
+				"Autor":"Salvador Dalí",
+				"Título":"La persistencia de la memoria",
+				"Año":"1931",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"24x33 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/01.jpg",
+			"x":"-3.0",
+			"y":"1.78",
+			"z":"11.38",
+			"angle":"0.0",
+			"width":"0.54",
+			"height":"0.65",
+			"tags": {
+				"Autor":"Vincent Van Gogh",
+				"Título":"Van Gogh (Autorretrato)",
+				"Año":"1889",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"65x54 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/tiempo.jpg",
+			"x":"-2.5",
+			"y":"1.58",
+			"z":"5.3",
+			"angle":"0.0",
+			"width":"3.3",
+			"height":"2.4",
+			"tags": {
+				"Autor":"Salvador Dalí",
+				"Título":"La persistencia de la memoria",
+				"Año":"1931",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"2.4x3.3 m (Ampliación)"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.26",
+			"y":"1.78",
+			"z":"-5.3",
+			"angle":"-90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (1)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.26",
+			"y":"1.78",
+			"z":"-2.9",
+			"angle":"-90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (2)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.26",
+			"y":"1.78",
+			"z":"-0.5",
+			"angle":"-90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (3)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.26",
+			"y":"1.78",
+			"z":"1.9",
+			"angle":"-90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (4)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"-4.26",
+			"y":"1.78",
+			"z":"4.3",
+			"angle":"-90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (5)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"3.7",
+			"y":"1.78",
+			"z":"-3.9",
+			"angle":"90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (6)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"3.7",
+			"y":"1.78",
+			"z":"-1.5",
+			"angle":"90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (7)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"3.7",
+			"y":"1.78",
+			"z":"0.9",
+			"angle":"90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (8)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"picture",
+			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"x":"3.7",
+			"y":"1.78",
+			"z":"3.3",
+			"angle":"90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (9)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"obj",
+			"source":"http://localhost/behart/pictures/ejemplo.jpg",
+			"model":"http://localhost/behart/pictures/guillex.obj",
+			"x":"3.7",
+			"y":"1.78",
+			"z":"5.7",
+			"angle":"90",
+			"width":"0.53",
+			"height":"0.77",
+			"tags": {
+				"Autor":"Leonardo Da Vinci (10)",
+				"Título":"Gioconda (La Mona Lisa)",
+				"Año":"1492",
+				"Técnica":"Óleo sobre lienzo",
+				"Dimensiones":"77x53 cm"
+			}
+		},
+		{
+			"type":"video",
+			"source":"http://localhost/behart/videos/arjona.mp4",
+			"x":"1.7",
+			"y":"1.78",
+			"z":"7.15",
+			"angle":"0.0",
+			"width":"2.0",
+			"height":"1.0",
+			"tags": {
+				"Autor":"Ricardo Arjona",
+				"Título":"Batichica (sesión de autor)",
+				"Año":"2020"
+			}
+		}
+	],
+
+	"ceiling-lights": [
+		{"x":"-2.4", "y":"2.68", "z":"-6.0"},
+		
+		{"x":"-2.4", "y":"2.68", "z":"-4.0"},
+		
+		{"x":"-2.4", "y":"2.68", "z":"-2.0"},
+		
+		{"x":"-2.4", "y":"2.68", "z":"0.0"},
+		
+		{"x":"-2.4", "y":"2.68", "z":"2.0"},
+		
+		{"x":"-2.4", "y":"2.68", "z":"4.0"},
+		
+		
+		{"x":"1.5", "y":"3.26", "z":"-6.0"},
+		
+		{"x":"1.5", "y":"3.26", "z":"-4.0"},
+		
+		{"x":"1.5", "y":"3.26", "z":"-2.0"},
+		
+		{"x":"1.5", "y":"3.26", "z":"0.0"},
+		
+		{"x":"1.5", "y":"3.26", "z":"2.0"},
+		
+		{"x":"1.5", "y":"3.26", "z":"4.0"},
+	]
+}
