@@ -4,7 +4,7 @@
 	"artworks": [
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"0.0",
 			"y":"1.78",
 			"z":"17.64",
@@ -21,7 +21,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.28",
 			"y":"1.78",
 			"z":"7.0",
@@ -38,7 +38,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/tiempo.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/tiempo.jpg",
 			"x":"5.0",
 			"y":"1.78",
 			"z":"9.98",
@@ -55,7 +55,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/01.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/01.jpg",
 			"x":"-3.0",
 			"y":"1.78",
 			"z":"11.38",
@@ -72,7 +72,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/tiempo.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/tiempo.jpg",
 			"x":"-2.5",
 			"y":"1.58",
 			"z":"5.3",
@@ -89,7 +89,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.26",
 			"y":"1.78",
 			"z":"-5.3",
@@ -106,7 +106,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.26",
 			"y":"1.78",
 			"z":"-2.9",
@@ -123,7 +123,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.26",
 			"y":"1.78",
 			"z":"-0.5",
@@ -140,7 +140,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.26",
 			"y":"1.78",
 			"z":"1.9",
@@ -157,7 +157,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"-4.26",
 			"y":"1.78",
 			"z":"4.3",
@@ -174,7 +174,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"3.7",
 			"y":"1.78",
 			"z":"-3.9",
@@ -191,7 +191,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"3.7",
 			"y":"1.78",
 			"z":"-1.5",
@@ -208,7 +208,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"3.7",
 			"y":"1.78",
 			"z":"0.9",
@@ -225,7 +225,7 @@
 		},
 		{
 			"type":"picture",
-			"source":"http://localhost/behart/pictures/gioconda.jpg",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/gioconda.jpg",
 			"x":"3.7",
 			"y":"1.78",
 			"z":"3.3",
@@ -242,8 +242,8 @@
 		},
 		{
 			"type":"obj",
-			"source":"http://localhost/behart/pictures/ejemplo.jpg",
-			"model":"http://localhost/behart/pictures/guillex.obj",
+			"source":"https://lgsilva3087.github.io/behart-release/pictures/ejemplo.jpg",
+			"model":"https://lgsilva3087.github.io/behart-release/pictures/guillex.obj",
 			"x":"3.7",
 			"y":"1.78",
 			"z":"5.7",
